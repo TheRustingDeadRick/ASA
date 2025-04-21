@@ -16,7 +16,7 @@
             {
                 "layout": 1,
                 "buttontext": "<TextStyle.Yellow>Welcome</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/icontransparentf2.png",
                 "content": [
                     {
                         "title": "Welcome to US Medieval Roleplay Wiki!",
@@ -27,7 +27,7 @@
             {
                 "layout": 4,
                 "buttontext": "<TextStyle.Orange>Key Features</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/icontransparentf2.png",
                 "content": [
                     {
                         "title": "Primitive Survival",
@@ -50,7 +50,7 @@
             {
                 "layout": 1,
                 "buttontext": "<TextStyle.Green>Server Info</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/icontransparentf2.png",
                 "content": [
                     {
                         "title": "Rates & Wipes",
@@ -61,7 +61,7 @@
             {
                 "layout": 1,
                 "buttontext": "<TextStyle.Blue>Plugins</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/icontransparentf2.png",
                 "content": [
                     {
                         "title": "Installed Plugins",
@@ -72,7 +72,7 @@
             {
                 "layout": 1,
                 "buttontext": "<TextStyle.Red>Mod List</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/icontransparentf2.png",
                 "content": [
                     {
                         "title": "All Installed Mods",

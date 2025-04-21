@@ -1,98 +1,100 @@
 {
-  "settings": {
-    "openbutton": 0,
-    "hideicon": true,
-    "hideiconafter": 15,
-    "iconurl": "https://i.imgur.com/OZ6xOjY.png",
-    "disableicontext": false,
-    "iconposition": 3,
-    "icontextcolor": 4,
-    "openonstart": true,
-    "openonstartonlynewplayers": true,
-    "updateinterval": 24
-  },
-  "tabs": [
-    {
-      "layout": 1,
-      "buttontext": "<TextStyle.Yellow>Welcome</>",
-      "imageurl": "https://i.imgur.com/mGt3cAF.png",
-      "content": [
-        {
-          "title": "Welcome to US Medieval Roleplay Wiki!",
-          "text": "The age of dragons, blades, and survival begins...\n\nKeep an eye on this UI and our website for updates, rules, and roleplay info to enhance your time on the server!"
-        }
-      ]
-    },
-    {
-      "layout": 4,
-      "buttontext": "<TextStyle.Orange>Key Features</>",
-      "imageurl": "https://i.imgur.com/mGt3cAF.png",
-      "content": [
-        {
-          "title": "Primitive Survival",
-          "text": "No Tek gear - swords, bows, and beasts rule the land."
+    "WBUI2": {
+        "settings": {
+            "openbutton": 0,
+            "hideicon": true,
+            "hideiconafter": 15,
+            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "disableicontext": false,
+            "iconposition": 3,
+            "icontextcolor": 4,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 24
         },
-        {
-          "title": "Rich RP Environment",
-          "text": "Player-run shops, emotes, medieval attire, and structures."
-        },
-        {
-          "title": "Fantasy Elements",
-          "text": "Mythical creatures and role-based progression await."
-        },
-        {
-          "title": "Balanced PvP",
-          "text": "Strategy and coordination matter - not just gear."
-        }
-      ]
-    },
-    {
-      "layout": 1,
-      "buttontext": "<TextStyle.Green>Server Info</>",
-      "imageurl": "https://i.imgur.com/mGt3cAF.png",
-      "content": [
-        {
-          "title": "Rates & Wipes",
-          "text": "XP: 1.0x | Taming: 1.5x | Gathering: 1.5x\n\nThis server NEVER wipes - your journey is persistent."
-        }
-      ]
-    },
-    {
-      "layout": 1,
-      "buttontext": "<TextStyle.Blue>Plugins</>",
-      "imageurl": "https://i.imgur.com/mGt3cAF.png",
-      "content": [
-        {
-          "title": "Installed Plugins",
-          "text": "- BetterSpawnDistribution\n- NoBuildingOnSpawnPoints\n- UnicodeRCONASA\n- AutoDinoSettings"
-        }
-      ]
-    },
-    {
-      "layout": 1,
-      "buttontext": "<TextStyle.Red>Mod List</>",
-      "imageurl": "https://i.imgur.com/mGt3cAF.png",
-      "content": [
-        {
-          "title": "All Installed Mods",
-          "text": "A Simple Performance Mod\nCirca's RP Deco\nCircas Deco Mod Core\nCliffans Wardrobe\nCliffans Backpacks\nCliffans RP Emotes\nAsharavel Bestiary\nRPG Fantasy Jukebox\nDragon's Kingdom\nRR-MedievalRoleplayDeco!\nAdmin Panel\nCliffans Weapon Skins\nKlinger Ferry Boats\nAdditional Gates\nVisual Storage\nAtlas Big Cats\nTyping Bubbles\nWall'n'Floor Decor\nBigAL's Meraxes\nMarniiMods Hairstyles\nMarnii Griffins\nDino Painter\nAstraeos Trireme Ships\nArkitect Structures\nCircas Castle Mod\nAutomated Dino Wipes\nPony's Greek/Roman Architecture\nQoL+\nJVH Landscaping\nJVH Garden Decor\nResonant's Shop Mod\nRR-AdminStuff\nRR-Medieval Structures\nFery's Pathways\nGryphons\nAwesome Admin Tools\nLudopARK Casino\nCastles Keeps & Forts - CKF\nWBUI2\nHUD Durability\nBetter Rafts\nDeath Beacon\nASA API Utils"
-        }
-      ]
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>Welcome</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Welcome to US Medieval Roleplay Wiki!",
+                        "text": "The age of dragons, blades, and survival begins...\n\nKeep an eye on this UI and our website for updates, rules, and roleplay info to enhance your time on the server!"
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "<TextStyle.Orange>Key Features</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Primitive Survival",
+                        "text": "No Tek gear - swords, bows, and beasts rule the land."
+                    },
+                    {
+                        "title": "Rich RP Environment",
+                        "text": "Player-run shops, emotes, medieval attire, and structures."
+                    },
+                    {
+                        "title": "Fantasy Elements",
+                        "text": "Mythical creatures and role-based progression await."
+                    },
+                    {
+                        "title": "Balanced PvP",
+                        "text": "Strategy and coordination matter - not just gear."
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Green>Server Info</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Rates & Wipes",
+                        "text": "XP: 1.0x | Taming: 1.5x | Gathering: 1.5x\n\nThis server NEVER wipes - your journey is persistent."
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Blue>Plugins</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Installed Plugins",
+                        "text": "- BetterSpawnDistribution\n- NoBuildingOnSpawnPoints\n- UnicodeRCONASA\n- AutoDinoSettings"
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Red>Mod List</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "All Installed Mods",
+                        "text": "A Simple Performance Mod\nCirca's RP Deco\nCircas Deco Mod Core\nCliffans Wardrobe\nCliffans Backpacks\nCliffans RP Emotes\nAsharavel Bestiary\nRPG Fantasy Jukebox\nDragon's Kingdom\nRR-MedievalRoleplayDeco!\nAdmin Panel\nCliffans Weapon Skins\nKlinger Ferry Boats\nAdditional Gates\nVisual Storage\nAtlas Big Cats\nTyping Bubbles\nWall'n'Floor Decor\nBigAL's Meraxes\nMarniiMods Hairstyles\nMarnii Griffins\nDino Painter\nAstraeos Trireme Ships\nArkitect Structures\nCircas Castle Mod\nAutomated Dino Wipes\nPony's Greek/Roman Architecture\nQoL+\nJVH Landscaping\nJVH Garden Decor\nResonant's Shop Mod\nRR-AdminStuff\nRR-Medieval Structures\nFery's Pathways\nGryphons\nAwesome Admin Tools\nLudopARK Casino\nCastles Keeps & Forts - CKF\nWBUI2\nHUD Durability\nBetter Rafts\nDeath Beacon\nASA API Utils"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "<TextStyle.Yellow>Visit the Wiki</>",
+                "url": "https://usmedievalroleplay.com/wiki"
+            },
+            {
+                "text": "<TextStyle.Green>Join the Discord</>",
+                "url": "https://discord.gg/b3qd2KsQ4D"
+            },
+            {
+                "text": "<TextStyle.White>Server Website</>",
+                "url": "https://usmedievalroleplay.com"
+            }
+        ],
+        "version": 2
     }
-  ],
-  "links": [
-    {
-      "text": "<TextStyle.Yellow>Visit the Wiki</>",
-      "url": "https://usmedievalroleplay.com/wiki"
-    },
-    {
-      "text": "<TextStyle.Green>Join the Discord</>",
-      "url": "https://discord.gg/b3qd2KsQ4D"
-    },
-    {
-      "text": "<TextStyle.White>Server Website</>",
-      "url": "https://usmedievalroleplay.com"
-    }
-  ],
-  "version": 2
 }

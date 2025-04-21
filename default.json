@@ -4,8 +4,8 @@
             "openbutton": 0,
             "hideicon": true,
             "hideiconafter": 15,
-            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
-            "disableicontext": false,
+            "iconurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/icontransparentf2.png",
+            "disableicontext": true,
             "iconposition": 3,
             "icontextcolor": 4,
             "openonstart": true,
@@ -84,7 +84,7 @@
         "links": [
             {
                 "text": "<TextStyle.Yellow>Visit the Wiki</>",
-                "url": "https://usmedievalroleplay.com/wiki"
+                "url": "https://wiki.usmedievalroleplay.com"
             },
             {
                 "text": "<TextStyle.Green>Join the Discord</>",

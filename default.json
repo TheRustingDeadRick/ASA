@@ -20,7 +20,7 @@
                 "content": [
                     {
                         "title": "Welcome to US Medieval Roleplay!",
-                        "text": "The age of dragons, blades, and survival begins...\n\n\ud83c\udf0e Explore a living medieval world filled with PvP, RP, and Fantasy!\n\ud83d\udd25 Stay updated here, on our Wiki, and Discord for events and updates."
+                        "text": "The age of dragons, blades, and survival begins...\n\n- Explore a living medieval world filled with PvP, RP, and Fantasy!\n- Stay updated here, on our Wiki, and Discord for events and updates.\n\n<TextStyle.Green>Recent Updates:</>\n- Added Dark Age 2 Weapons, HUDAscended, ArkNav\n- Removed unused mods for performance\n- Adjusted resource Spawn Rates and PvP timers"
                     }
                 ]
             },
@@ -31,19 +31,19 @@
                 "content": [
                     {
                         "title": "Primitive Survival",
-                        "text": "No Tek gear \u2014 bows, swords, and mythical beasts rule the land."
+                        "text": "No Tek, No Guns \u2014 just bows, swords, tames, and traps. Build smart, hide well, and outplay your enemies."
                     },
                     {
                         "title": "Rich RP Systems",
-                        "text": "Player-run kingdoms, markets, sieges, and events."
+                        "text": "Create towns, kingdoms, and alliances through roleplay. Run shops, events, and claim titles. RP supported."
                     },
                     {
                         "title": "Fantasy Tames",
-                        "text": "Dragons, Meraxes, Gryphons, Big Cats \u2014 tame your legend."
+                        "text": "Tame dragons, gryphons, meraxes, and magical beasts. Many have special evolution paths or powers."
                     },
                     {
                         "title": "Balanced PvP",
-                        "text": "Skillful survival and kingdom building matter \u2014 not just gear."
+                        "text": "Raiding allowed but tuned \u2014 structure resistance x0.8, damage x1.5. PvP is strategic, not zerg-based."
                     }
                 ]
             },
@@ -76,19 +76,41 @@
                 "content": [
                     {
                         "title": "Creatures & Tames",
-                        "text": "Dragon's Kingdom\nMarnii Griffins\nBigAL's Meraxes\nAtlas Big Cats\nGryphons"
+                        "text": "\ud83e\uddff Dragon's Kingdom \u2013 Tame & evolve dragons using Alpha Dragon Tooth\n\ud83e\udd85 Marnii Griffins \u2013 Fantasy griffins with high mobility\n\ud83e\udd96 Meraxes \u2013 KO tame with unique powers\n\ud83d\udc05 Atlas Big Cats \u2013 Tigers & lions\n\ud83e\udeb6 Gryphons \u2013 Lightweight flying beasts"
                     },
                     {
                         "title": "Structures & RP Deco",
-                        "text": "CKF\nArkitect Structures\nRR Medieval Structures\nRR RP Deco\nWall'n'Floor Decor\nFery's Pathways"
+                        "text": "\ud83c\udff0 CKF \u2013 Modular medieval castle system\n\ud83e\uddf1 Arkitect Structures \u2013 ASR Primitive Bench & advanced snap points\n\ud83d\uded6 RR Medieval Deco \u2013 Immersive decor\n\ud83e\ude91 RR RP Deco \u2013 Roleplay props\n\ud83e\uddf1 Wall'n'Floor \u2013 Trim pieces\n\ud83d\udee4\ufe0f Fery's Pathways \u2013 Aesthetic paths"
                     },
                     {
                         "title": "Gear, UI, QoL",
-                        "text": "Cliffans Wardrobe & Backpacks\nCliffans Weapon Skins\nHUD Durability\nHUDAscended\nArkNav\nBetter Rafts"
+                        "text": "\ud83d\udc55 Cliffans Wardrobe \u2013 Clothing sets\n\ud83c\udf92 Cliffans Backpacks \u2013 Boost carry weight\n\u2694\ufe0f Cliffans Weapon Skins \u2013 Recolors of vanilla weapons\n\ud83d\udcca HUD Durability \u2013 See item HP on screen\n\ud83d\udcdc HUDAscended \u2013 Clean modern HUD\n\ud83e\udded ArkNav \u2013 Map & GPS\n\u26f5 Better Rafts \u2013 Faster, reverse-enabled"
                     },
                     {
                         "title": "Utilities & Survival",
-                        "text": "Primitive Weaponry\nDark Age 2 Weapons\nSurvival Ambience\nReturn The Beacons\nASA Api Utils\nAdmin Tools\nLudopARK Casino"
+                        "text": "\ud83d\udd2b Primitive Weaponry \u2013 Crossbows, spears, flintlocks\n\ud83d\udde1\ufe0f Dark Age Weapons \u2013 More melee types\n\ud83c\udf2b\ufe0f Survival Ambience \u2013 Fog, mood, darkness\n\ud83d\udccd Return The Beacons \u2013 Corpse/dino locators\n\ud83d\udee0\ufe0f ASA API Utils \u2013 Plugin base\n\ud83e\udde9 Admin Tools \u2013 Essential server features\n\ud83c\udfb0 LudopARK Casino \u2013 Mini games & prize systems"
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.LightBlue>FAQs</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "Frequently Asked Questions",
+                        "text": "<TextStyle.Yellow>How do I tame a dragon?</>\n- Knock out with arrows or modded arrows, use special saddle from Dragon's Kingdom bench.\n- To evolve, collect an Alpha Dragon Tooth.\n\n<TextStyle.Yellow>What are Bushberries (BB)?</>\n- BB are your in-game currency, earned by playing, voting, ranking up, and events.\n\n<TextStyle.Yellow>Where can I find help?</>\n- Use this menu, visit the Wiki, or ask in Discord!"
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Orange>Commands</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "Player Commands (Coming Soon)",
+                        "text": "- <TextStyle.Yellow>/rank</> \u2192 Shows your current rank and playtime progress\n\n\n<TextStyle.Red>Note:</> These features are under construction and will be available soon.\nStay tuned on Discord for updates!"
                     }
                 ]
             }

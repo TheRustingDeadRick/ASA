@@ -54,7 +54,7 @@
                 "content": [
                     {
                         "title": "Server Rates & Info",
-                        "text": "XP: 1.0x | Taming: 1.5x | Gathering: 1.5x\n\n\ud83d\udee1\ufe0f Tribe Size Limit: 8\n\ud83d\udeab No Alliances (Trading OK)\n\u274c No Wipes \u2014 your world is persistent."
+                        "text": "XP: 1.0x | Taming: 1.5x | Gathering: 1.5x\n\n\udee1 Tribe Size Limit: 8\n\udeab No Alliances (Trading OK)\n\u274c No Wipes \u2014 your world is persistent."
                     }
                 ]
             },
@@ -76,25 +76,25 @@
                 "content": [
                     {
                         "title": "Creatures & Tames",
-                        "text": " Dragon's Kingdom \u2013 Tame & evolve dragons using Alpha Dragon Tooth\n Marnii Griffins \u2013 Fantasy griffins with high mobility\n\udd96 Meraxes \u2013 KO tame with unique powers\n\ud83d\udc05 Atlas Big Cats \u2013 Tigers & lions\n\udeb6 Gryphons \u2013 Lightweight flying beasts"
+                        "text": "Dragon's Kingdom \u2013 Tame & evolve dragons using Alpha Dragon Tooth\n Marnii Griffins \u2013 Fantasy griffins with high mobility\n Meraxes \u2013 KO tame with unique powers\n\udc05 Atlas Big Cats \u2013 Tigers & lions\n\udeb6 Gryphons \u2013 Lightweight flying beasts"
                     },
                     {
                         "title": "Structures & RP Deco",
-                        "text": "\ud83c\udff0 CKF \u2013 Modular medieval castle system\n\uddf1 Arkitect Structures \u2013 ASR Primitive Bench & advanced snap points\n\ud83d\uded6 RR Medieval Deco \u2013 Immersive decor\n\ude91 RR RP Deco \u2013 Roleplay props\n\uddf1 Wall'n'Floor \u2013 Trim pieces\n\ud83d\udee4\ufe0f Fery's Pathways \u2013 Aesthetic paths"
+                        "text": "CKF \u2013 Modular medieval castle system\n Arkitect Structures \u2013 ASR Primitive Bench & advanced snap points\n\uded6 RR Medieval Deco \u2013 Immersive decor\n RR RP Deco \u2013 Roleplay props\n Wall'n'Floor \u2013 Trim pieces\n\udee4 Fery's Pathways \u2013 Aesthetic paths"
                     },
                     {
                         "title": "Gear, UI, QoL",
-                        "text": "\ud83d\udc55 Cliffans Wardrobe \u2013 Clothing sets\n\ud83c\udf92 Cliffans Backpacks \u2013 Boost carry weight\n\u2694\ufe0f Cliffans Weapon Skins \u2013 Recolors of vanilla weapons\n\ud83d\udcca HUD Durability \u2013 See item HP on screen\n\ud83d\udcdc HUDAscended \u2013 Clean modern HUD\n\udded ArkNav \u2013 Map & GPS\n\u26f5 Better Rafts \u2013 Faster, reverse-enabled"
+                        "text": "Cliffans Wardrobe \u2013 Clothing sets\n Cliffans Backpacks \u2013 Boost carry weight\n\u2694 Cliffans Weapon Skins \u2013 Recolors of vanilla weapons\n\udcca HUD Durability \u2013 See item HP on screen\n\udcdc HUDAscended \u2013 Clean modern HUD\n\udded ArkNav \u2013 Map & GPS\n Better Rafts \u2013 Faster, reverse-enabled"
                     },
                     {
                         "title": "Utilities & Survival",
-                        "text": "\ud83d\udd2b Primitive Weaponry \u2013 Crossbows, spears, flintlocks\n\ud83d\udde1\ufe0f Dark Age Weapons \u2013 More melee types\n\ud83c\udf2b\ufe0f Survival Ambience \u2013 Fog, mood, realistic darkness\n\ud83d\udccd Return The Beacons \u2013 Corpse/dino locators\n\ud83d\udee0\ufe0f ASA API Utils \u2013 Plugin base\n\udde9 Admin Tools \u2013 Essential server features\n\ud83c\udfb0 LudopARK Casino \u2013 Mini games & prize systems"
+                        "text": "Primitive Weaponry \u2013 Crossbows, spears, flintlocks\n Dark Age Weapons \u2013 More melee types\n Survival Ambience \u2013 Fog, mood, realistic darkness\n\udccd Return The Beacons \u2013 Corpse/dino locators\n ASA API Utils \u2013 Plugin base\n Admin Tools \u2013 Essential server features\n LudopARK Casino \u2013 Mini games & prize systems"
                     }
                 ]
             },
             {
                 "layout": 1,
-                "buttontext": "<TextStyle.Purple>FAQs</>",
+                "buttontext": "<TextStyle.Yellow>FAQs</>",
                 "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
                 "content": [
                     {

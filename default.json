@@ -20,7 +20,7 @@
                 "content": [
                     {
                         "title": "Welcome to US Medieval Roleplay!",
-                        "text": "The age of dragons, blades, and survival begins...\n\n- Explore a living medieval world filled with PvP, RP, and Fantasy!\n- Stay updated here, on our Wiki, and Discord for events and updates.\n\n<TextStyle.Green>Recent Updates:</>\n- Added Dark Age 2 Weapons, HUDAscended, ArkNav\n- Removed unused mods for performance\n- Adjusted resource Spawn Rates and PvP timers"
+                        "text": "The age of dragons, blades, and survival begins...\n\n- Explore a living medieval world filled with PvP, RP, and Fantasy!\n- Stay updated here, on our Wiki, and Discord for events and updates.\n\n<TextStyle.Green>Recent Updates:</>\n- Added Dark Age 2 Weapons, HUDAscended, ArkNav\n- Removed unused mods for performance\n- Adjusted Dino Spawn Rates and PvP timers"
                     }
                 ]
             },
@@ -35,7 +35,7 @@
                     },
                     {
                         "title": "Rich RP Systems",
-                        "text": "Create towns, kingdoms, and alliances through roleplay. Run shops, events, and claim titles. RP supported."
+                        "text": "Create towns, kingdoms, and alliances through roleplay. Run shops, events, and claim titles. RP zones supported."
                     },
                     {
                         "title": "Fantasy Tames",
@@ -88,7 +88,7 @@
                     },
                     {
                         "title": "Utilities & Survival",
-                        "text": "\ud83d\udd2b Primitive Weaponry \u2013 Crossbows, spears, flintlocks\n\ud83d\udde1\ufe0f Dark Age Weapons \u2013 More melee types\n\ud83c\udf2b\ufe0f Survival Ambience \u2013 Fog, mood, darkness\n\ud83d\udccd Return The Beacons \u2013 Corpse/dino locators\n\ud83d\udee0\ufe0f ASA API Utils \u2013 Plugin base\n\ud83e\udde9 Admin Tools \u2013 Essential server features\n\ud83c\udfb0 LudopARK Casino \u2013 Mini games & prize systems"
+                        "text": "\ud83d\udd2b Primitive Weaponry \u2013 Crossbows, spears, flintlocks\n\ud83d\udde1\ufe0f Dark Age Weapons \u2013 More melee types\n\ud83c\udf2b\ufe0f Survival Ambience \u2013 Fog, mood, realistic darkness\n\ud83d\udccd Return The Beacons \u2013 Corpse/dino locators\n\ud83d\udee0\ufe0f ASA API Utils \u2013 Plugin base\n\ud83e\udde9 Admin Tools \u2013 Essential server features\n\ud83c\udfb0 LudopARK Casino \u2013 Mini games & prize systems"
                     }
                 ]
             },
@@ -99,7 +99,7 @@
                 "content": [
                     {
                         "title": "Frequently Asked Questions",
-                        "text": "<TextStyle.Yellow>How do I tame a dragon?</>\n- Knock out with arrows or modded arrows, use special saddle from Dragon's Kingdom bench.\n- To evolve, collect an Alpha Dragon Tooth.\n\n<TextStyle.Yellow>What are Bushberries (BB)?</>\n- BB are your in-game currency, earned by playing, voting, ranking up, and events.\n\n<TextStyle.Yellow>Where can I find help?</>\n- Use this menu, visit the Wiki, or ask in Discord!"
+                        "text": "<TextStyle.Yellow>How do I tame a dragon?</>\n- Knock out with arrows or modded weapons, use special saddle from Dragon's Kingdom bench.\n- To evolve, collect an Alpha Dragon Tooth.\n\n<TextStyle.Yellow>What are Bushberries (BB)?</>\n- BB are your in-game currency, earned by playing, voting, ranking up, and events.\n\n<TextStyle.Yellow>Where can I find help?</>\n- Use this menu, visit the Wiki, or ask in Discord!"
                     }
                 ]
             },
@@ -110,7 +110,7 @@
                 "content": [
                     {
                         "title": "Player Commands (Coming Soon)",
-                        "text": "- <TextStyle.Yellow>/rank</> \u2192 Shows your current rank and playtime progress\n\n\n<TextStyle.Red>Note:</> These features are under construction and will be available soon.\nStay tuned on Discord for updates!"
+                        "text": "- <TextStyle.Yellow>/rank</> \u2192 View your current rank and playtime.\n- <TextStyle.Yellow>/top</> \u2192 See the top-ranked players on the server.\n- <TextStyle.Yellow>+register</> \u2192 Begin linking your Discord (see Discord for full process).\n\n<TextStyle.Red>Note:</> These features are under construction.\nStay tuned via Discord for live feature updates."
                     }
                 ]
             }

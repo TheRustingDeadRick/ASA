@@ -9,14 +9,14 @@
             "iconposition": 1,
             "icontextcolor": 4,
             "openonstart": true,
-            "openonstartonlynewplayers": true,
+            "openonstartonlynewplayers": false,
             "updateinterval": 24
         },
         "tabs": [
             {
                 "layout": 1,
                 "buttontext": "<TextStyle.Yellow>Welcome</>",
-                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png"
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
                 "content": [
                     {
                         "title": "Welcome to US Medieval Roleplay!",

@@ -20,7 +20,7 @@
                 "content": [
                     {
                         "title": "Welcome to US Medieval Roleplay!",
-                        "text": "The age of dragons, blades, and survival begins...\n\n- Explore a living medieval world filled with PvP, RP, and Fantasy!\n- Stay updated here, on our Wiki, and Discord for events and updates.\n\n<TextStyle.Green>Recent Updates:</>\n- Added Dark Age 2 Weapons, HUDAscended, ArkNav\n- Removed unused mods for performance\n- Adjusted Dino Spawn Rates and PvP timers"
+                        "text": "The age of dragons, blades, and survival begins...\n\n- Explore a living medieval world filled with PvP, RP, and Fantasy!\n- Stay updated here, on our Wiki, and Discord for events and updates.\n\n\n<TextStyle.Red>Current Issues/Bugs:\n- some resources are rendering in-game, but are not able to be harvested. Expected to be fixed with an ark update</><TextStyle.Green>Recent Updates:</>\n- Added Dark Age 2 Weapons, HUDAscended, ArkNav\n- Added Loadout Dummy mod and Atlas Trading Ship\n- New primitive weapons and ammo added to loot\n- Canteens and hazard suit pieces added to drops\n- Enabled ASR Batch Paint Mode\n- Increased imprint rate (fewer imprints needed)\n- Resource regrow radius reduced to 0.3 (more regrowth)\n- Removed Bob's Tales and oddvar weapons\n- Adjusted cannon/ballista/catapult drop rates\n- Slightly increased griffin spawn (0.5 → 0.75)\n- Custom Dynamic Config enabled for ASA\n\n<TextStyle.Orange>Older Changes:</>\n- Ported old server settings to ASA backend\n- Updated all loot tables and drop balancing\n- All saddles spawn in drops with proper quality\n- Increased fuel duration from 1.25x → 1.5x\n- Enabled server gameplay logging\n- Fixed broken cave drop tags and odd engrams\n- Increased tribe log size to 5000 entries\n- Re-enabled Resonant Shop + added starter kits, etc.,/n Panel Last Updated: 20240606"
                     }
                 ]
             },
@@ -64,8 +64,8 @@
                 "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
                 "content": [
                     {
-                        "title": "Installed Plugins",
-                        "text": "- Better Spawn Distribution\n- No Building on Spawn Points\n- UnicodeRCON ASA\n- Auto Dino Settings\n- Automated Dino Wipes\n- WBUI2 Interface\n(More info in Discord / Wiki)"
+                        "title": "Server-Side Plugins",
+                        "text": "- Better Spawn Distribution\n- No Building on Spawn Points\n- UnicodeRCON ASA\n- Auto Dino Settings\n- WBUI2 Interface\n(More info in Discord / Wiki)"
                     }
                 ]
             },
@@ -76,19 +76,19 @@
                 "content": [
                     {
                         "title": "Creatures & Tames",
-                        "text": "Dragon's Kingdom \u2013 Tame & evolve dragons using Alpha Dragon Tooth\n Marnii Griffins \u2013 Fantasy griffins with high mobility\n Meraxes \u2013 KO tame with unique powers\n\udc05 Atlas Big Cats \u2013 Tigers & lions\n\udeb6 Gryphons \u2013 Lightweight flying beasts"
+                        "text": "<TextStyle.Yellow>Dragon's Kingdom</> – Tame & evolve dragons using Alpha Dragon Tooth\n<TextStyle.Yellow>Marnii Griffins</> – Fantasy griffins with high mobility\n<TextStyle.Yellow>Meraxes</> – KO tame with unique powers\n<TextStyle.Yellow>Atlas Big Cats</> – Tigers & lions\n<TextStyle.Yellow>Gryphons</> – Lightweight flying beasts"
                     },
                     {
                         "title": "Structures & RP Deco",
-                        "text": "CKF \u2013 Modular medieval castle system\n Arkitect Structures \u2013 ASR Primitive Bench & advanced snap points\n\uded6 RR Medieval Deco \u2013 Immersive decor\n RR RP Deco \u2013 Roleplay props\n Wall'n'Floor \u2013 Trim pieces\n\udee4 Fery's Pathways \u2013 Aesthetic paths"
+                        "text": "<TextStyle.Green>CKF</> – Modular medieval castle system\n<TextStyle.Green>Arkitect Structures</> – ASR Primitive Bench & advanced snap points\n<TextStyle.Green>RR Medieval Structures</> – Immersive castles and builds\n<TextStyle.Green>RR RP Deco</> – Roleplay props and furniture\n<TextStyle.Green>Wall'n'Floor</> – Trim pieces and polish\n<TextStyle.Green>Fery's Pathways</> – Ground textures and decor\n<TextStyle.Green>Additional Gates</> – More structural variety\n<TextStyle.Green>Astraeos Trireme Ships</> – Ancient sea vessels"
                     },
                     {
                         "title": "Gear, UI, QoL",
-                        "text": "Cliffans Wardrobe \u2013 Clothing sets\n Cliffans Backpacks \u2013 Boost carry weight\n\u2694 Cliffans Weapon Skins \u2013 Recolors of vanilla weapons\n\udcca HUD Durability \u2013 See item HP on screen\n\udcdc HUDAscended \u2013 Clean modern HUD\n\udded ArkNav \u2013 Map & GPS\n Better Rafts \u2013 Faster, reverse-enabled"
+                        "text": "<TextStyle.Blue>Cliffans Wardrobe</> – Custom medieval outfits\n<TextStyle.Blue>Cliffans Backpacks</> – Extra carry weight\n<TextStyle.Blue>Cliffans Weapon Skins</> – Stylized gear\n<TextStyle.Blue>HUD Durability</> – Visual item health\n<TextStyle.Blue>HUDAscended</> – Modern UI experience\n<TextStyle.Blue>ArkNav</> – Minimap and GPS\n<TextStyle.Blue>Better Rafts</> – Faster water travel\n<TextStyle.Blue>Loadout Mannequin</> – Save & apply gear kits\n<TextStyle.Blue>Marnii Hairstyles</> – Hair customization\n<TextStyle.Blue>Cliffans RP Emotes</> – Emotes & poses\n<TextStyle.Blue>Medieval Jukebox</> – RP soundtracks"
                     },
                     {
                         "title": "Utilities & Survival",
-                        "text": "Primitive Weaponry \u2013 Crossbows, spears, flintlocks\n Dark Age Weapons \u2013 More melee types\n Survival Ambience \u2013 Fog, mood, realistic darkness\n\udccd Return The Beacons \u2013 Corpse/dino locators\n ASA API Utils \u2013 Plugin base\n Admin Tools \u2013 Essential server features\n LudopARK Casino \u2013 Mini games & prize systems"
+                        "text": "<TextStyle.Orange>Primitive Weaponry</> – Crossbows, spears, flintlocks\n<TextStyle.Orange>Dark Age 2 Weapons</> – Expanded melee arsenal\n<TextStyle.Orange>Return The Beacons</> – Corpse/dino locators\n<TextStyle.Orange>ASA API Utils</> – Plugin support backbone\n<TextStyle.Orange>Admin Tools</> – Server control utilities\n<TextStyle.Orange>Resonant's Shop Mod</> – In-game economy tools\n<TextStyle.Orange>Atlas Trading Ship</> – Sailing merchant craft\n<TextStyle.Orange>Awesome ARK Tools</> – Various build & debug aids\n<TextStyle.Orange>WBUI2</> – This interactive UI"
                     }
                 ]
             },
@@ -109,8 +109,8 @@
                 "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
                 "content": [
                     {
-                        "title": "Player Commands (Coming Soon)",
-                        "text": "- <TextStyle.Yellow>/rank</> \u2192 View your current rank and playtime.\n- <TextStyle.Yellow>/top</> \u2192 See the top-ranked players on the server.\n- <TextStyle.Yellow>+register</> \u2192 Begin linking your Discord (see Discord for full process).\n\n<TextStyle.Red>Note:</> These features are under construction.\nStay tuned via Discord for live feature updates."
+                        "title": "Player Commands ",
+                        "text": "- <TextStyle.Yellow>+register</> \u2192 Begin linking your Discord (see Discord for full process).\n\n<TextStyle.Red>Note:</> More commands are on the way.\nStay tuned via Discord for live feature updates."
                     }
                 ]
             }

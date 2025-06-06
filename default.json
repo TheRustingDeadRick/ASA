@@ -30,20 +30,20 @@
                 "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
                 "content": [
                     {
-                        "title": "Primitive Survival",
-                        "text": "No Tek, No Guns \u2014 just bows, swords, tames, and traps. Build smart, hide well, and outplay your enemies."
+                        "title": "<TextStyle.Red>Primitive Survival</>",
+                        "text": "No Tek, No Guns, No Tek \n \u2014 just bows, swords, tames, and traps. Build smart, hide well, and outplay your enemies."
                     },
                     {
-                        "title": "Rich RP Systems",
-                        "text": "Create towns, kingdoms, and alliances through roleplay. Run shops, events, and claim titles. RP supported."
+                        "title": "<TextStyle.Orange>Rich RP Systems</>",
+                        "text": "Create towns, kingdoms, and alliances through roleplay. \n - Run shops, events, and claim titles. RP supported."
                     },
                     {
-                        "title": "Fantasy Tames",
-                        "text": "Tame dragons, gryphons, meraxes, and magical beasts. Many have special evolution paths or powers."
+                        "title": "<TextStyle.Purple>Fantasy Tames</>",
+                        "text": "Tame dragons, gryphons, meraxes, and magical beasts. \n - Many have special evolution paths or powers."
                     },
                     {
-                        "title": "Balanced PvP",
-                        "text": "Raiding allowed but tuned \u2014 structure resistance x0.8, damage x1.5. PvP is strategic, not zerg-based."
+                        "title": "<TextStyle.Yellow>Balanced PvP</>",
+                        "text": "Raiding allowed but tuned for balance \n \u2014 structure resistance x0.8, damage x1.5. PvP is strategic, not zerg-based."
                     }
                 ]
             },

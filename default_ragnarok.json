@@ -1,0 +1,134 @@
+{
+    "WBUI2": {
+        "settings": {
+            "openbutton": 1,
+            "hideicon": true,
+            "hideiconafter": 30,
+            "iconurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/icontransparentf2.png",
+            "disableicontext": true,
+            "iconposition": 1,
+            "icontextcolor": 4,
+            "openonstart": true,
+            "openonstartonlynewplayers": false,
+            "updateinterval": 8
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>Welcome</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "Welcome to US Medieval Roleplay 2!",
+                        "text": "The age of dragons, blades, and survival begins...\n\n- Explore a living medieval world filled with PvP, RP, and Fantasy!\n- Stay updated here, on our Wiki, and Discord for events and updates.\n\n\n<TextStyle.Red>Current Issues/Bugs:</>\n- some resources are rendering in-game, but are not able to be harvested. Expected to be fixed with an ark update. \n\n\n<TextStyle.Green>Recent Updates:</>\n- Added Dark Age 2 Weapons, HUDAscended, ArkNav\n- Added Loadout Dummy mod and Atlas Trading Ship\n- New primitive weapons and ammo added to loot\n- Canteens and hazard suit pieces added to drops\n- Enabled ASR Batch Paint Mode\n- Increased imprint rate (fewer imprints needed)\n- Resource regrow radius reduced to 0.3 (more regrowth)\n- Removed Bob's Tales and oddvar weapons\n- Adjusted cannon/ballista/catapult drop rates\n- Slightly increased griffin spawn (0.5 → 0.75)\n- Custom Dynamic Config enabled for ASA\n\n<TextStyle.Orange>Older Changes:</>\n- Ported old server settings to ASA backend\n- Updated all loot tables and drop balancing\n- All saddles spawn in drops with proper quality\n- Increased fuel duration from 1.25x → 1.5x\n- Enabled server gameplay logging\n- Fixed broken cave drop tags and odd engrams\n- Increased tribe log size to 5000 entries\n- Re-enabled Resonant Shop + added starter kits, etc.,\n\n WBUI Last Updated: 20240606"
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "<TextStyle.Orange>Key Features</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.Red>Primitive Survival</>",
+                        "text": "No Tek, No Guns, No Tek \n\n \u2014 just bows, swords, tames, and traps. Build smart, hide well, and outplay your enemies."
+                    },
+                    {
+                        "title": "<TextStyle.Orange>Rich RP Systems</>",
+                        "text": "Create towns, kingdoms, and alliances through roleplay. \n\n - Run shops, events, and claim titles. RP supported."
+                    },
+                    {
+                        "title": "<TextStyle.Blue>Fantasy Tames</>",
+                        "text": "Tame dragons, gryphons, meraxes, and magical beasts. \n\n - Many have special evolution paths or powers."
+                    },
+                    {
+                        "title": "<TextStyle.Yellow>Balanced PvP</>",
+                        "text": "Raiding allowed but tuned for balance \n\n \u2014 structure resistance x0.8, damage x1.5. PvP is strategic, not zerg-based."
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Green>Server Info</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "Server Rates & Info",
+                        "text": "XP: 1.0x | Taming: 1.5x | Gathering: 1.5x\n\n\udee1 Tribe Size Limit: 8\n\udeab No Alliances (Trading OK)\n\u274c No Wipes \u2014 your world is persistent.\n\n<TextStyle.Yellow>Game.ini</>\n\nBabyCuddleGracePeriodMultiplier=1\nBabyCuddleIntervalMultiplier=0.75\nBabyCuddleLoseImprintQualitySpeedMultiplier=1\nBabyFoodConsumptionSpeedMultiplier=1\nBabyImprintAmountMultiplier=1.25\nBabyImprintingStatScaleMultiplier=1\nBabyMatureSpeedMultiplier=1.5\nbAllowCustomRecipes=True\nbAllowFlyerSpeedLeveling=False\nbAllowPlatformSaddleMultiFloors=False\nbAllowUnlimitedRespecs=True\nbAutoPvETimer=False\nbAutoUnlockAllEngrams=False\nbDisableDefaultMapItemSets=True\nbDisableDinoDecayClaiming=False\nbDisableDinoRiding=False\nbDisableDinoTaming=False\nbDisableFriendlyFire=False\nbDisableHexagonStore=True\nbDisableLootCrates=False\nbDisableStructurePlacementCollision=True\nbFlyerPlatformAllowUnalignedDinoBasing=True\nbIgnoreStructuresPreventionVolumes=True\nbIncreasePvPRespawnInterval=False\nbLimitTurretsInRange=True\nbOnlyAllowSpecifiedEngrams=False\nbPassiveDefensesDamageRiderlessDinos=True\nbPvEAllowTribeWar=False\nbShowCreativeMode=False\nbUseCorpseLocator=True\nbUseSingleplayerSettings=False\nbUseTameLimitForStructuresOnly=False\nCarnivoreNaturalTargetingRangeMultiplier=0.5\nCarnivorePlayerAggroMultiplier=0.85\nCraftingSkillBonusMultiplier=1\nCraftXPMultiplier=1\nCropDecaySpeedMultiplier=1\nCropGrowthSpeedMultiplier=1\nCustomRecipeEffectivenessMultiplier=1\nCustomRecipeSkillMultiplier=1\nDinoClassDamageMultipliers=(ClassName=\"Rex_Character_BP_C\",Multiplier=1.25)\nDinoClassResistanceMultipliers=(ClassName=\"Rex_Character_BP_C\",Multiplier=2)\nDinoClassResistanceMultipliers=(ClassName=\"Sauropod_Character_BP_C\",Multiplier=1.75)\nDinoHarvestingDamageMultiplier=1\nDinoTurretDamageMultiplier=1.25\nEggHatchSpeedMultiplier=1.5\nEnablePvPGamma=False\nPassiveTameIntervalMultiplier=1\nPhotoModeRangeLimit=2500\nPlayerHarvestingDamageMultiplier=1\nPoopIntervalMultiplier=1\nPvPZoneStructureDamageMultiplier=1\nResourceNoReplenishRadiusPlayers=1\nResourceNoReplenishRadiusStructures=0.3\nSpecialXPMultiplier=1\nStructureDamageRepairCooldown=180\nSupplyCrateLootQualityMultiplier=1\nUseCorpseLifeSpanMultiplier=2\n\n<TextStyle.Yellow>GameUserSettings.ini</>\n\n[ServerSettings]\nDifficultyOffset=1.0\nDayTimeSpeedScale=1.738168724\nNightTimeSpeedScale=2.343271605\nStructureDamageMultiplier=1.5\nStructureResistanceMultiplier=0.8\nTamingSpeedMultiplier=1.5\nPvEStructureDecayPeriodMultiplier=1.5\nActiveEvent=\nActiveMapMod=\nActiveMods=\nAdminLogging=False\nAllowAnyoneBabyImprintCuddle=False\nAllowCaveBuildingPvE=False\nAllowCrateSpawnsOnTopOfStructures=True\nAllowFlyerCarryPvE=False\nAllowHideDamageSourceFromLogs=False\nAllowHitMarkers=True\nAllowIntegratedSPlusStructures=True\nAllowRaidDinoFeeding=False\nallowThirdPersonPlayer=True\nAlwaysAllowStructurePickup=True\nalwaysNotifyPlayerLeft=False\nAutoDestroyDecayedDinos=False\nAutoDestroyOldStructuresMultiplier=1\nAutoDestroyStructures=True\nAutoSavePeriodMinutes=28.0\nbAllowPlatformSaddleMultiFloors=False\nbFilterCharacterNames=False\nbFilterChat=False\nbFilterTribeNames=False\nbForceCanRideFliers=True\nbRawSockets=True\nClampItemSpoilingTimes=False\nClampItemStats=False\nClampResourceHarvestDamage=False\nCrossARKAllowForeignDinoDownloads=True\ncrossplay=False\nCustomDynamicConfigUrl=https:\nDestroyUnconnectedWaterPipes=True\nDisableDinoDecayPvE=False\nDisableImprintDinoBuff=False\nDisablePvEGamma=True\nDisableStructureDecayPvE=False\nDontAlwaysNotifyPlayerJoined=True\nEnableExtraStructurePreventionVolumes=False\nEnablePvPGamma=False\nFastDecayUnsnappedCoreStructures=False\nForceAllowCaveFlyers=True\nForceGachaUnhappyInCaves=True\nForceRespawnDinos=False\ngameplaylogging=True\nglobalVoiceChat=False\nIgnoreLimitMaxStructuresInRangeTypeFlag=True\nImplantSuicideCD=28800\ninsecure=True\nItemStackSizeMultiplier=1\nKickIdlePlayersPeriod=10600.000000\nListenServerTetherDistanceMultiplier=1.000000\nlowmemory=False\nMaxPersonalTamedDinos=500\nMaxPlayers=100\nMaxTamedDinos=10000\nMaxTributeDinos=20\nMaxTributeItems=50\nMinimumDinoReuploadInterval=180\nnoantispeedhack=True\nNoBattlEye=True\nNonPermanentDiseases=True\nnoTributeDownloads=False\nNPCNetworkStasisRangeScalePercentEnd=0.5\nNPCNetworkStasisRangeScalePlayerCountEnd=70\nNPCNetworkStasisRangeScalePlayerCountStart=24\nOnlyAllowSpecifiedEngrams=True\nOnlyAutoDestroyCoreStructures=False\nOnlyDecayUnsnappedCoreStructures=False\nOverrideOfficialDifficulty=5\nOverrideSecondsUntilBuriedTreasureAutoReveals=1209600\nOverrideStructurePlatformPrevention=True\nOxygenSwimSpeedStatMultiplier=1.25\nPerPlatformMaxStructuresMultiplier=1.5\nPersonalTamedDinosSaddleStructureCost=10\nPlatformSaddleBuildAreaBoundsMultiplier=1\nPreventDiseases=False\nPreventDownloadDinos=False\nPreventDownloadItems=False\nPreventDownloadSurvivors=False\nPreventOfflinePvP=False\nPreventSpawnAnimations=True\nPreventTribeAlliances=True\nproximityChat=False\nPvEAllowStructuresAtSupplyDrops=True\nPvEDinoDecayPeriodMultiplier=2.5\nPvPDinoDecay=True\nPvPStructureDecay=True\nRaidDinoCharacterFoodDrainMultiplier=1\nRandomSupplyCratePoints=True\nRCONEnabled=True\nRCONOutputTribeLogs=True\nRCONPort=27020\nRCONServerGameLogBuffer=600.000000\nServerCrosshair=True\nserverForceNoHud=False\nservergamelog=True\nServerGameLogIncludeTribeLogs=True\nserverHardcore=False\nServerName=[US] Medieval Roleplay\nServerPassword=\nserverPVE=False\nServerRCONOutputTribeLogs=True\nShowFloatingDamageText=False\nShowMapPlayerLocation=True\nStartTimeHour=-1\nstructurememopts=True\nStructurePickupHoldDuration=0.5\nStructurePreventResourceRadiusMultiplier=1.0\nTheMaxStructuresInRange=10500\nTribeLogDestroyedEnemyStructures=True\nTribeNameChangeCooldown=5000\nTributeCharacterExpirationSeconds=86400\nTributeDinoExpirationSeconds=86400\nTributeItemExpirationSeconds=86400\nUSEALLAVAILABLECORES=True\nusecache=True\nUseDynamicConfig=True\nUseOptimizedHarvestingHealth=False\nUseStructureStasisGrid=True\nwebalarm=True\nWinLiveMaxPlayers=100\nStructurePickupTimeAfterPlacement=30\nMaxTamedDinos_SoftTameLimit=5000\nMaxTamedDinos_SoftTameLimit_CountdownForDeletionDuration=604800\n"
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Blue>Plugins</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "Server-Side Plugins",
+                        "text": "- Better Spawn Distribution - Matches Ragnarok Level Distributions\n- No Building on Spawn Points - to prevent griefing new players \n- UnicodeRCON ASA - adds unicode support to ASA\n- Auto Dino Settings - automatically set dino behaviors when tamed\n- WBUI2 Interface - the interface you are using right now \n\n(More detailed info in Discord / Wiki)"
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "<TextStyle.Red>Mod Overview</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "Creatures & Tames",
+                        "text": "<TextStyle.Yellow>Dragon's Kingdom</> – Tame & evolve dragons using Alpha Dragon Tooth\n<TextStyle.Yellow>Marnii Griffins</> – Fantasy griffins with high mobility\n<TextStyle.Yellow>Meraxes</> – KO tame with unique powers\n<TextStyle.Yellow>Atlas Big Cats</> – Tigers & lions\n<TextStyle.Yellow>Gryphons</> – Lightweight flying beasts"
+                    },
+                    {
+                        "title": "Structures & RP Deco",
+                        "text": "<TextStyle.Green>CKF</> – Modular medieval castle system\n<TextStyle.Green>Arkitect Structures</> – ASR Primitive Bench & advanced snap points\n<TextStyle.Green>RR Medieval Structures</> – Immersive castles and builds\n<TextStyle.Green>RR RP Deco</> – Roleplay props and furniture\n<TextStyle.Green>Wall'n'Floor</> – Trim pieces and polish\n<TextStyle.Green>Fery's Pathways</> – Ground textures and decor\n<TextStyle.Green>Additional Gates</> – More structural variety\n<TextStyle.Green>Astraeos Trireme Ships</> – Ancient sea vessels"
+                    },
+                    {
+                        "title": "Gear, UI, QoL",
+                        "text": "<TextStyle.Blue>Cliffans Wardrobe</> – Custom medieval outfits\n<TextStyle.Blue>Cliffans Backpacks</> – Extra carry weight\n<TextStyle.Blue>Cliffans Weapon Skins</> – Stylized gear\n<TextStyle.Blue>HUD Durability</> – Visual item health\n<TextStyle.Blue>HUDAscended</> – Modern UI experience\n<TextStyle.Blue>ArkNav</> – Minimap and GPS\n<TextStyle.Blue>Better Rafts</> – Faster water travel\n<TextStyle.Blue>Loadout Mannequin</> – Save & apply gear kits\n<TextStyle.Blue>Marnii Hairstyles</> – Hair customization\n<TextStyle.Blue>Cliffans RP Emotes</> – Emotes & poses\n<TextStyle.Blue>Medieval Jukebox</> – RP soundtracks"
+                    },
+                    {
+                        "title": "Utilities & Survival",
+                        "text": "<TextStyle.Orange>Primitive Weaponry</> – Crossbows, spears, flintlocks\n<TextStyle.Orange>Dark Age 2 Weapons</> – Expanded melee arsenal\n<TextStyle.Orange>Return The Beacons</> – Corpse/dino locators\n<TextStyle.Orange>ASA API Utils</> – Plugin support backbone\n<TextStyle.Orange>Admin Tools</> – Server control utilities\n<TextStyle.Orange>Resonant's Shop Mod</> – In-game economy tools\n<TextStyle.Orange>Atlas Trading Ship</> – Sailing merchant craft\n<TextStyle.Orange>Awesome ARK Tools</> – Various build & debug aids\n<TextStyle.Orange>WBUI2</> – This interactive UI"
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>FAQs</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "Frequently Asked Questions",
+                        "text": "<TextStyle.Yellow>How do I get a starter?</>\n- Press F1 to access shop on pc, for console please see shop instructions below. Once shop is opened, purchase starter kit (1 per player)\n\n<TextStyle.Yellow>How do I open the shop on controller?</>\n- When on controller the way to open the shop is through the multi-use menu. To open the multi-use menu use the left face button (Either X for Xbox or Square for Playstation (You can also do this on Mouse and Key with holding R)) and navigate to the shop icon in the menu. Make sure to select the option in the menu with either A/X or RT and if a second menu opens to select the Gold Bag icon you must press A/X or RT on that as well, do not let go of the left face button while in the menu or when you have hovered the icon assuming it will open the shop, you must press A/X or RT specifically to select the shop in order for it to open properly. \n\n\n<TextStyle.Yellow>Where can I find help?</>\n- Use this menu, visit the Wiki, or ask in Discord!\n\n\n<TextStyle.Yellow>What are Bushberries (BB)?</>\n- BB are your in-game currency, earned by playing, voting, ranking up, and events.\n\n<TextStyle.Yellow>How do I tame a dragon?</>\n- Knock out with arrows or modded weapons, use special saddle from Dragon's Kingdom bench.\n- To evolve, collect an Alpha Dragon Tooth.\n\n<TextStyle.Yellow>Is this server PVP?</>\n- Yes, this server is full PVP."
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "<TextStyle.Orange>Commands</>",
+                "imageurl": "https://usmedievalroleplay.com/wp-content/uploads/2025/04/usmr2_50.png",
+                "content": [
+                    {
+                        "title": "Player Commands ",
+                        "text": "- <TextStyle.Yellow>+register</> \u2192 Earn Ranks and more! (each rank grants bonus to +payday command in discord! .\n\n<TextStyle.Red>Note:</> More commands are on the way.\nStay tuned via Discord for live feature updates."
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "<TextStyle.Yellow>Visit the Wiki</>",
+                "url": "https://wiki.usmedievalroleplay.com"
+            },
+            {
+                "text": "<TextStyle.Green>Join the Discord</>",
+                "url": "https://discord.gg/VRTeJRPh3n"
+            },
+            {
+                "text": "<TextStyle.White>Server Website</>",
+                "url": "https://usmedievalroleplay.com"
+            }
+        ],
+        "version": 2
+    }
+}
